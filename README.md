@@ -19,6 +19,6 @@ This erlang module implements some functions that simplify the use of reCapture 
 
 
 # Acknowledgement:
-  - The reCAPTCHA service is an amazing tool that help us all keep the internet a better place. http://recaptcha.net
-  - The implementation was inspired by the python recaptcha-client. http://pypi.python.org/pypi/recaptcha-client
-  - This project uses the code from Buddy Moore erlang driver. http://code.google.com/p/recaptcha-erlang
+  - The reCAPTCHA service is an amazing tool that help us all keep the internet a better place. [http://recaptcha.net]
+  - The implementation was inspired by the python recaptcha-client. [http://pypi.python.org/pypi/recaptcha-client]
+  - This project uses the code from Buddy Moore erlang driver. [http://code.google.com/p/recaptcha-erlang]
